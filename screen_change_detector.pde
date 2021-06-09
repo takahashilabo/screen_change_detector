@@ -39,7 +39,7 @@ void loadParam() {
   H = json.getInt("H");
   D = json.getFloat("D");
   SOUND_FILENAME = json.getString("SOUND_FILENAME");
-  print(LEFT);
+  surface.setSize(W, H);
 }
 
 float pre_b = 0;
