@@ -1,0 +1,8 @@
+{
+    TOP: 500,
+    LEFT: 1500,
+    W: 400,
+    H: 300,
+    D: 0.1,
+    SOUND_FILENAME: "46.mp3"
+}
